@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">AABrowser</string>
-    <string name="app_credit">AABrowser — by Kododake</string>
+    <string name="app_name">Mapify</string>
+    <string name="app_credit">Mapify — by Kododake</string>
     <string name="author_name">Kododake</string>
-    <string name="menu_title">AABrowser</string>
+    <string name="menu_title">Mapify</string>
     <string name="menu_close">Close</string>
     <string name="menu_address_label">Address or search</string>
     

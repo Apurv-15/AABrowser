@@ -69,7 +69,7 @@ android {
     androidComponents {
         onVariants { variant ->
             val vNameStr = android.defaultConfig.versionName ?: "unknown"
-            val appNameStr = "AABrowser"
+            val appNameStr = "Mapify"
             val isDebug = variant.buildType == "debug"
             val debugSuffixStr = if (isDebug) "_debug" else ""
 
