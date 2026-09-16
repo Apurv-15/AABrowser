@@ -15,7 +15,7 @@ android {
 
     defaultConfig {
         applicationId = "com.kododake.aabrowser"
-        minSdk = 35
+        minSdk = 26
         targetSdk = 37
         versionCode = 8
         versionName = "2.2"
